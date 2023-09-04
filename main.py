@@ -1,6 +1,6 @@
 import networkx as nx
-from lib import clingoext
-from lib import utils
+from utils import clingoext
+from utils import utils
 
 
 YES = "YES"
