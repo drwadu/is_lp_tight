@@ -8,7 +8,7 @@ results.
 
 ## Usage
 ```sh 
-$ pip -r install requirements.txt 
+$ pip install -r requirements.txt 
                                                              # ... installing dependencies
 $ python3 main.py examples/a.lp
 NO  examples/a.lp
